@@ -1,2 +1,1 @@
-# lamba-api
-Node on Lamba
+Node API using Lambda
