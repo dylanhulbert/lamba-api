@@ -1,0 +1,15 @@
+{
+  "name": "lambda-api",
+  "version": "0.1.0",
+  "description": "Node API deployed in Lambda",
+  "author": "Dylan Hulbert <dylan@dylanhulbert.com>",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "zip": "zip -r ../lambda-api.zip *"
+  }
+}
